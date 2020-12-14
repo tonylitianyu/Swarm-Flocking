@@ -7,7 +7,9 @@
 The implementation is based on this paper:
 Hauert, Sabine, et al. "Reynolds flocking in reality with fixed-wing robots: communication range vs. maximum turning rate." 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems. IEEE, 2011.
 
-The Coachswarm simulation is provided by Professor Michael Rubenstein at Northwestern University
+The Coachswarm simulation is provided by Professor Michael Rubenstein at Northwestern University.
+
+Since this is a class project, the python code cannot be made public. If you are interested, please contact me for more details.
 
 ## Approach
 
